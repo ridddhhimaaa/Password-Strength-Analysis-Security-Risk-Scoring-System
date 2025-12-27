@@ -95,6 +95,8 @@ The Java application performs the following steps:
 
 5.Stores results in a CSV file for analysis
 
+---
+
 🔢 Feature-Based Scoring (Example)
 
 | Feature            | Weight |
@@ -105,17 +107,25 @@ The Java application performs the following steps:
 | Digits             | 20     |
 | Special Characters | 20     |
 
+---
+
 ▶️ Command Line Execution
 
 The application is built and executed using Maven and the command line.
+
+---
 
 📊 Dataset Generation
 
 Each execution appends one row to password_data.csv, which is later used for Data Science and Machine Learning analysis.
 
+---
+
 📈 Data Science & Visualization
 
 The generated dataset is analyzed using Pandas and visualized using Matplotlib to understand password strength distribution and feature impact.
+
+---
 
 🤖 Machine Learning Model
 
@@ -129,6 +139,8 @@ The generated dataset is analyzed using Pandas and visualized using Matplotlib t
 
 This demonstrates how rule-based systems can be extended into predictive models.
 
+---
+
 🔀 DevOps Practices Used
 
 -Git version control
@@ -140,6 +152,8 @@ This demonstrates how rule-based systems can be extended into predictive models.
 -.gitignore to exclude build artifacts and checkpoints
 
 -Clean commit history
+
+---
 
 🎓 Learning Outcomes
 
@@ -155,6 +169,8 @@ This demonstrates how rule-based systems can be extended into predictive models.
 
 -End-to-end integration of DevOps + Data Science
 
+---
+
 🚀 Future Enhancements
 
 -Add OWASP password policy rules
@@ -165,11 +181,15 @@ This demonstrates how rule-based systems can be extended into predictive models.
 
 -Deploy as a REST API
 
+---
+
 👩‍💻 Author
 
 Riddhima Rai
 Engineering Student
 Domain: Data Science • DevOps • Machine Learning
+
+---
 
 📌 Conclusion
 
