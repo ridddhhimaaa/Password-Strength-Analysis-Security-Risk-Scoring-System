@@ -99,7 +99,7 @@ The Java application performs the following steps:
 
 🔢 Feature-Based Scoring (Example)
 
-| Feature            | Weight |
+| Feature            - Weight |
 | Length             = 30     |
 | Uppercase Letters  = 15     |
 | Lowercase Letters  = 15     |
