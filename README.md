@@ -100,12 +100,11 @@ The Java application performs the following steps:
 🔢 Feature-Based Scoring (Example)
 
 | Feature            | Weight |
-| --------------------------- |
-| Length             | 30     |
-| Uppercase Letters  | 15     |
-| Lowercase Letters  | 15     |
-| Digits             | 20     |
-| Special Characters | 20     |
+| Length             = 30     |
+| Uppercase Letters  = 15     |
+| Lowercase Letters  = 15     |
+| Digits             = 20     |
+| Special Characters = 20     |
 
 ---
 
